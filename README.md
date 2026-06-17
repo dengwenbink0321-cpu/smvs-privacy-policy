@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+</head>
+<body>
+<h1>Privacy Policy</h1>
+
+<p>SMVS App respects your privacy.</p>
+
+<h2>Data We Collect</h2>
+<p>We may collect images, videos, and device connection information only for app functionality.</p>
+
+<h2>How We Use Data</h2>
+<p>All data is stored locally on the device unless explicitly exported by the user.</p>
+
+<h2>Contact</h2>
+<p>Email: 402847229@qq.com</p>
+
+</body>
+</html>
